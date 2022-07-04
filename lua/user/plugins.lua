@@ -78,6 +78,20 @@ return packer.startup(function(use)
   use "aranggitoar/cgrey"
   use "lynd2299/neg.vim"
   use "stvhuang/nvim-base16-gruvbox"
+  use "jaredgorski/SpaceCamp"
+  use "julien/vim-colors-green"
+  use "mathofprimes/wildgrass"
+  use "vim-scripts/Relaxed-Green"
+  use "rickharris/vim-blackboard"
+  use "fcpg/vim-farout"
+  use "NSBrianWard/Glacier-Remixes"
+  use "trapd00r/neverland-vim-theme"
+  use "haystackandroid/cosmic_latte"
+  use "ackyshake/Spacegray.vim"
+  use "srcery-colors/srcery-vim"
+  use "mr-ubik/vim-hackerman-syntax"
+  use "TroyFletcher/vim-colors-synthwave"
+  use "tamlok/detorte"
 
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
