@@ -122,7 +122,7 @@ cmp.setup {
   window = {
     documentation = {
       border = { "╭", "─", "╮", "│", "╯", "─", "╰", "│" },
-    }
+    },
   },
   experimental = {
     ghost_text = false,
