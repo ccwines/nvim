@@ -1,6 +1,6 @@
 Chuck's Neovim Config, built from scratch based on [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
 
-Minimum version - [Neovim v0.6.0]
+Made with [Neovim v0.8.0] in mind - recommended to build from source to avoid breaking changes
 
 Run `nvim` and wait for the plugins to be installed 
 

@@ -28,6 +28,11 @@ vim.cmd [[
     autocmd!
     autocmd User AlphaReady set showtabline=0 | autocmd BufUnload <buffer> set showtabline=2
   augroup end
+
+  augroup _python
+    autocmd!
+    autocmd FileType python set colorcolumn=80
+  augroup end
 ]]
 
 -- Autoformat
