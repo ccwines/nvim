@@ -69,6 +69,11 @@ end
 time([[try_loadstring definition]], false)
 time([[Defining packer_plugins]], true)
 _G.packer_plugins = {
+  Antares = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/Antares",
+    url = "https://github.com/Haron-Prime/Antares"
+  },
   ["Comment.nvim"] = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/Comment.nvim",
@@ -118,6 +123,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
+  },
+  ["codeschool.nvim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/codeschool.nvim",
+    url = "https://github.com/adisen99/codeschool.nvim"
   },
   ["darkplus.nvim"] = {
     loaded = true,
@@ -169,6 +179,11 @@ _G.packer_plugins = {
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
+  ["lush.nvim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/lush.nvim",
+    url = "https://github.com/rktjmp/lush.nvim"
+  },
   melange = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/melange",
@@ -178,6 +193,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/neg.vim",
     url = "https://github.com/lynd2299/neg.vim"
+  },
+  neon = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/neon",
+    url = "https://github.com/rafamadriz/neon"
+  },
+  ["nisha-vim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/nisha-vim",
+    url = "https://github.com/heraldofsolace/nisha-vim"
   },
   ["null-ls.nvim"] = {
     loaded = true,
@@ -273,6 +298,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/vim-lighthaus",
     url = "https://github.com/lighthaus-theme/vim-lighthaus"
+  },
+  ["vim-moonfly-colors"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/vim-moonfly-colors",
+    url = "https://github.com/bluz71/vim-moonfly-colors"
   },
   ["which-key.nvim"] = {
     loaded = true,
