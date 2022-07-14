@@ -60,6 +60,7 @@ return packer.startup(function(use)
 	use("folke/which-key.nvim")
 
 	-- Colorschemes
+  use("rktjmp/lush.nvim")
 	use({ "folke/tokyonight.nvim", commit = "8223c970677e4d88c9b6b6d81bda23daf11062bb" })
 	use("lunarvim/darkplus.nvim")
   use("morhetz/gruvbox")
@@ -72,6 +73,11 @@ return packer.startup(function(use)
   use("aranggitoar/cgrey")
   use("lynd2299/neg.vim")
   use("stvhuang/nvim-base16-gruvbox")
+  use("bluz71/vim-moonfly-colors")
+  use("rafamadriz/neon")
+  use("heraldofsolace/nisha-vim")
+  use("Haron-Prime/Antares")
+  use("adisen99/codeschool.nvim")
 
 	-- cmp plugins
 	use({ "hrsh7th/nvim-cmp", commit = "df6734aa018d6feb4d76ba6bda94b1aeac2b378a" }) -- The completion plugin
