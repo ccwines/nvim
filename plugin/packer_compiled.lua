@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["Relaxed-Green"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/Relaxed-Green",
+    url = "https://github.com/vim-scripts/Relaxed-Green"
+  },
   ["alpha-nvim"] = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/alpha-nvim",
@@ -184,6 +189,11 @@ _G.packer_plugins = {
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/lush.nvim",
     url = "https://github.com/rktjmp/lush.nvim"
   },
+  ["marklar.vim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/marklar.vim",
+    url = "https://github.com/vim-scripts/marklar.vim"
+  },
   melange = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/melange",
@@ -269,6 +279,11 @@ _G.packer_plugins = {
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/project.nvim",
     url = "https://github.com/ahmedkhalf/project.nvim"
   },
+  ["robinhood.vim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/robinhood.vim",
+    url = "https://github.com/vim-scripts/robinhood.vim"
+  },
   starrynight = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/starrynight",
@@ -294,6 +309,11 @@ _G.packer_plugins = {
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/vim-bbye",
     url = "https://github.com/moll/vim-bbye"
   },
+  ["vim-colors-green"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/vim-colors-green",
+    url = "https://github.com/julien/vim-colors-green"
+  },
   ["vim-lighthaus"] = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/vim-lighthaus",
@@ -308,6 +328,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chuck/.local/share/nvim/site/pack/packer/start/which-key.nvim",
     url = "https://github.com/folke/which-key.nvim"
+  },
+  ["wildgrass-vim"] = {
+    loaded = true,
+    path = "/home/chuck/.local/share/nvim/site/pack/packer/start/wildgrass-vim",
+    url = "https://github.com/mathofprimes/wildgrass-vim"
   }
 }
 

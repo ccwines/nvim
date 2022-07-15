@@ -78,6 +78,11 @@ return packer.startup(function(use)
   use("heraldofsolace/nisha-vim")
   use("Haron-Prime/Antares")
   use("adisen99/codeschool.nvim")
+  use("vim-scripts/Relaxed-Green")
+  use("vim-scripts/robinhood.vim")
+  use("vim-scripts/marklar.vim")
+  use("julien/vim-colors-green")
+  use("mathofprimes/wildgrass-vim")
 
 	-- cmp plugins
 	use({ "hrsh7th/nvim-cmp", commit = "df6734aa018d6feb4d76ba6bda94b1aeac2b378a" }) -- The completion plugin
